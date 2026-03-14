@@ -4,20 +4,20 @@
 The objective of this model is to project the company’s financial performance and ensure that operating assumptions, growth forecasts, and financing decisions remain internally consistent across all financial statements.
 
 ## Model Components
-• Revenue growth forecasting
-• Cost and operating margin projections
-• Pro forma income statement
-• Pro forma balance sheet
-• Cash flow projections
-• Retained earnings and financing adjustments
-• Balance sheet consistency checks
+- Revenue growth forecasting
+- Cost and operating margin projections
+- Pro forma income statement
+- Pro forma balance sheet
+- Cash flow projections
+- Retained earnings and financing adjustments
+- Balance sheet consistency checks
 
 ## Key Outputs
-• Projected revenue growth
-• Forecasted operating margins
-• Net income projections
-• Cash flow from operations
-• Balance sheet balancing through internally consistent assumptions
+- Projected revenue growth
+- Forecasted operating margins
+- Net income projections
+- Cash flow from operations
+- Balance sheet balancing through internally consistent assumptions
 
 ## Tools Used
 Microsoft Excel
