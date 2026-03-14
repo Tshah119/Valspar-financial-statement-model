@@ -20,7 +20,7 @@ The objective of this model is to project the company’s financial performance 
 - Balance sheet balancing through internally consistent assumptions
 
 ## Tools Used
-Microsoft Excel
+Microsoft Excel (Solver, Goal Seek)
 
 ## Purpose
 This model was created as an academic project to demonstrate financial forecasting and financial statement modeling techniques used in corporate finance and financial planning & analysis (FP&A).
